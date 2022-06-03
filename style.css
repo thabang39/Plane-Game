@@ -1,0 +1,7 @@
+.root{
+    -fx-background-image:url("am.jpg");
+}
+
+.btn1{
+    -fx-background-color: red;
+}
